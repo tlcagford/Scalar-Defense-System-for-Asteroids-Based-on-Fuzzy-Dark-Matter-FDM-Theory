@@ -1,0 +1,2 @@
+# Scalar-Defense-System-for-Asteroids-Based-on-Fuzzy-Dark-Matter-FDM-Theory
+Scalar Defense leverages wave-like properties of Fuzzy Dark Matter to detect, track &amp; deflect asteroids. Manipulating scalar fields (ϕ) &amp; their interference patterns, system creates controlled gravitational potentials can alter asteroid trajectories. Foundation is the two-field FDM model, allows tuning density fringes via mass &amp; velocity parameters
